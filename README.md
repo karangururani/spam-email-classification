@@ -62,8 +62,7 @@ Spam-Email-Classification/
 ---
 
 ## 🔹 How to Run the Project
-
-### Step 1: Clone the Repository
+### step 1 : clone the repo
 ```bash
 git clone https://github.com/karangururani/spam-email-classification.git
 cd spam-email-classification
@@ -81,7 +80,8 @@ vectorizer.pkl
 python app.py
 
 ### Step 5: Open in Browser
-http://127.0.0.1:5000/
+http://127.0.0.1:5000/ ```
+
 
 🧪 Example Spam Messages
 Bank account suspended verify now
