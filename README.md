@@ -68,19 +68,19 @@ Spam-Email-Classification/
 git clone https://github.com/karangururani/spam-email-classification.git
 cd spam-email-classification
 
-2️⃣ Install Required Libraries
+### Step 2:  Install Required Libraries
 pip install flask pandas scikit-learn
 
-3️⃣ Train the Model
+### Step 3: Train the Model
 python train_model.py
 This will generate:
 model.pkl
 vectorizer.pkl
 
-4️⃣ Run the Flask Application
+### Step 4: Run the Flask Application
 python app.py
 
-5️⃣ Open in Browser
+### Step 5: Open in Browser
 http://127.0.0.1:5000/
 
 🧪 Example Spam Messages
