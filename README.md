@@ -62,7 +62,7 @@ vectorizer.pkl
 python app.py
 
 ### Step 5: Open in Browser
-http://127.0.0.1:5000/ ```
+http://127.0.0.1:5000/ 
 
 
 
